@@ -1,4 +1,7 @@
 # sample-plurals-ios
 Sample code for a blog post on plurals support on iOS.
+https://www.rightpoint.com/rplabs/localized-pluralization-stringsdict-dict-format
 
-https://www.raizlabs.com/dev/2017/03/localized-pluralization-with-stringsdict/
+from Rightpoint's RPLabs site:
+https://www.rightpoint.com/rplabs/
+
